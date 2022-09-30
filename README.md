@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nechcodes
-- 👀 I’m interested in web and mobile app development
+- 👋 Hi, I’m Nwenwe Confidence. A curious Nigerian.
+- 👀 I’m interested in Desktop and Enterprise App development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on improving healthcare and general well-being of people using lines of code
+- 💞️ I’m looking to collaborate with other programmers to improve healthcare and general well-being of people using lines of code.
 - 📫 How to reach me @confidencenwenwe@gmail.com
 
 <!---
